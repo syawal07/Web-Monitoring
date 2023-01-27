@@ -16,6 +16,7 @@
   </head>
   <body>
      <div class="container">
+    <div class="card mt-4"> 
     <table class="table table-striped table-hover">
     <thead>
         <th>Project Name</th>
@@ -33,7 +34,40 @@
         <td>26-01-2023</td>
         <td>100%</td>
     </tbody>
+     <tbody>
+        <td>Web Monitoring</td>
+        <td>Ahmad </td>
+        <td>Syawal Saputra</td>
+        <td>07-12-2022</td>
+        <td>26-01-2023</td>
+        <td>100%</td>
+    </tbody>
+     <tbody>
+        <td>Web Monitoring</td>
+        <td>Ahmad </td>
+        <td>Syawal Saputra</td>
+        <td>07-12-2022</td>
+        <td>26-01-2023</td>
+        <td>100%</td>
+    </tbody>
+     <tbody>
+        <td>Web Monitoring</td>
+        <td>Ahmad </td>
+        <td>Syawal Saputra</td>
+        <td>07-12-2022</td>
+        <td>26-01-2023</td>
+        <td>100%</td>
+    </tbody>
+     <tbody>
+        <td>Web Monitoring</td>
+        <td>Ahmad </td>
+        <td>Syawal Saputra</td>
+        <td>07-12-2022</td>
+        <td>26-01-2023</td>
+        <td>100%</td>
+    </tbody>
    </table>
+   </div>
    </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
